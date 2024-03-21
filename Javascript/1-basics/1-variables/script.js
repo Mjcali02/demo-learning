@@ -4,5 +4,5 @@ function blabla() {
     
     return myObject // ['array1', 'array2', 'array3']
 }
-
+// haha done
 console.log(blabla());
